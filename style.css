@@ -1,0 +1,22 @@
+body{
+    background: darkcyan;
+}
+
+canvas{
+    border: solid 3px darkblue;
+}
+
+#center_div {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -500px;
+}
+
+#score{
+    color: white;
+    text-align: center;
+    font-family: "Lucida Console";
+    font-size: 30px;
+}
